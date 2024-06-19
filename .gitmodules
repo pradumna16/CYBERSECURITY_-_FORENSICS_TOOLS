@@ -1,0 +1,15 @@
+[submodule "PRODIGY_CS_01"]
+	path = PRODIGY_CS_01
+	url = https://github.com/pradumna16/PRODIGY_CS_01.git
+[submodule "PRODIGY_CS_02"]
+	path = PRODIGY_CS_02
+	url = https://github.com/pradumna16/PRODIGY_CS_02.git
+[submodule "PRODIGY_CS_03"]
+	path = PRODIGY_CS_03
+	url = https://github.com/pradumna16/PRODIGY_CS_03.git
+[submodule "PRODIGY_CS_04"]
+	path = PRODIGY_CS_04
+	url = https://github.com/pradumna16/PRODIGY_CS_04.git
+[submodule "PRODIGY_CS_05"]
+	path = PRODIGY_CS_05
+	url = https://github.com/pradumna16/PRODIGY_CS_05.git
